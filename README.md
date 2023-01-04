@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NEXTJS<br>👯 I’m looking to collaborate on DJANGO<br>🤝 I’m looking for help with<br>🌱 I’m currently learning SWEDISH<br>💬 Ask me about Anything<br>⚡ Fun fact
+🔭 I’m currently working on NEXTJS,NESTJS<br>👯 I’m looking to collaborate on DJANGO<br>🤝 I’m looking for help with<br>🌱 I’m currently learning SWEDISH<br>💬 Ask me about Anything<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
